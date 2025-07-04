@@ -3,4 +3,5 @@ Repositório para as atividades realizadas por mim (Enzo Alves) durante o primei
 
 ## Estrutura de Pastas
 - `/lista`: Listas de exercícios e suas resoluções.
+- `/Conteudo`:Resumo do conteudo da lista.
 - `/Provas`: Provas realizadas no semestre.
